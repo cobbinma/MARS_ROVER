@@ -1,4 +1,10 @@
 # MARS_ROVER
+## Instructions
+Please compile whole project and run main method from Control_Rover class.
+Input file should be named "input.txt" and placed in root directory. Input.txt file is included in root directory as example.
+Assumption is made that any input files are correct and do not contain errors.
+Due to time contrainsts no collision detection is included in project.
+
 
 ## Mars Rover technical Challenge
 The problem below requires some kind of input. You are free to implement any mechanism for feeding input into your solution (for example, using
