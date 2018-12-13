@@ -3,7 +3,7 @@
 Please compile whole project and run main method from Control_Rover class.
 Input file should be named "input.txt" and placed in root directory. Input.txt file is included in root directory as example.
 Assumption is made that any input files are correct and do not contain errors.
-Due to time contrainsts no collision detection is included in project.
+Due to time contrainsts no collision detection system is included in project.
 
 
 ## Mars Rover technical Challenge
