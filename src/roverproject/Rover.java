@@ -11,7 +11,6 @@ public class Rover {
 	String heading;
 	int limitX;
 	int limitY;
-	boolean gridArray[][];
 
 	public Rover(int x, int y, String h, int limitX, int limitY) {
 		this.x = x;
